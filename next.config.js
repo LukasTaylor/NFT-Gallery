@@ -2,6 +2,6 @@
 module.exports = {
   reactStrictMode: true,
   env: {
-    alchemyApiKey: "X3RqzqfOA5IZDF1Q9jeJGlKuWJ0mQiju",
+    alchemyApiKey: process.env.REACT_APP_ALCHEMY_API_KEY,
   },
 };

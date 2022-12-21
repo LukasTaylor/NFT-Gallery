@@ -27,7 +27,6 @@ yarn-error.log*
 
 # local env files
 .env*.local
-/root/nft-gallery/next.config.js
 
 # vercel
 .vercel
